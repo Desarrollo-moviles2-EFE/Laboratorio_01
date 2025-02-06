@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "Volcán Arenal",
+    "ubicacion": "Alajuela, Costa Rica",
+    "altura": 1670,
+    "descripcion": "Uno de los volcanes más activos de Costa Rica, ubicado en el Parque Nacional Volcán Arenal.",
+    "imagen": "https://www.visitcostarica.com/sites/default/files/2024-10/Arenal%20volcano%20%28Costa%20Rica%2C%20La%20Fortuna%29..jpg"
+  },
+  {
+    "nombre": "Volcán Poás",
+    "ubicacion": "Alajuela, Costa Rica",
+    "altura": 2708,
+    "descripcion": "Conocido por su gran cráter activo con laguna ácida de color turquesa.",
+    "imagen": "https://www.ucr.ac.cr/medios/fotos/pri_x-large/2023/volcan_poas2-63f396fe78653.jpg"
+  },
+  {
+    "nombre": "Volcán Irazú",
+    "ubicacion": "Cartago, Costa Rica",
+    "altura": 3432,
+    "descripcion": "El volcán más alto de Costa Rica, famoso por su vista panorámica y su cráter verde esmeralda.",
+    "imagen": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/b2/c2.jpg"
+  },
+  {
+    "nombre": "Volcán Rincón de la Vieja",
+    "ubicacion": "Guanacaste, Costa Rica",
+    "altura": 1916,
+    "descripcion": "Un volcán activo con numerosas fumarolas y aguas termales.",
+    "imagen": "https://costarica.org/wp-content/uploads/2014/12/Rincon-de-la-Vieja-Circle.jpg"
+  },
+  {
+    "nombre": "Volcán Turrialba",
+    "ubicacion": "Cartago, Costa Rica",
+    "altura": 3340,
+    "descripcion": "Activo y con frecuentes erupciones de ceniza, cercano al Volcán Irazú.",
+    "imagen": "https://www.govisitcostarica.co.cr/images/photos/desk-turrialba-volcano-erupting(1).jpg"
+  },
+  {
+    "nombre": "Volcán Miravalles",
+    "ubicacion": "Guanacaste, Costa Rica",
+    "altura": 2028,
+    "descripcion": "Famoso por sus aguas termales y proyectos geotérmicos.",
+    "imagen": "https://costarica.org/wp-content/uploads/2014/12/Miravalles-Volcano-Amazing-Volcano-view-300x210.jpg"
+  },
+  {
+    "nombre": "Volcán Barva",
+    "ubicacion": "Heredia, Costa Rica",
+    "altura": 2906,
+    "descripcion": "Ubicado en el Parque Nacional Braulio Carrillo, con lagunas de origen volcánico.",
+    "imagen": "https://www.vamosaturistear.com/wp-content/webp-express/webp-images/uploads/2021/02/Volcan-Barva-1-1024x575.jpg.webp"
+  }
+]
